@@ -1,0 +1,15 @@
+{
+    "intro" : "I am the pokemon ID system.",
+    "q1" : "What is the pokemon's main type?\n",
+    "q2" : "Is the pokemon first stage, second stage, or third stage?\n",
+    "q3" : "Would you get hurt by its body if you hugged it?\n",
+    "cant_understand" : "I can't understand that response. Please answer with yes or no.",
+    "conclusion" : "It looks like you have a ",
+    "multiple_conclusion" : "It could also be a ",
+    "confirmation" : "Did I guess correctly?\n",
+    "not_found" : "I do not recognize that pokemon. ",
+    "request_entry" : "Please tell me what it is.\n",
+    "repeat" : "Do you want to go again?\n",
+    "farewell" : "Goodbye.",
+    "contribution" : "Thank you for the contribution."
+}
